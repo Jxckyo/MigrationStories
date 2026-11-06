@@ -7,7 +7,7 @@
 layout: essay
 
 # Title of your project
-title: "Template: Your Family Migration Story"
+title: "Jacky's Fathers Immigration story"
 
 # Your name and course (shown under the title)
 student: "Your Name"
