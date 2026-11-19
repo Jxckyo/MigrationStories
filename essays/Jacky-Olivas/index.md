@@ -76,14 +76,33 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
 
 ## Subheader 3:  Meaningful object, song, food 
 
- {% include essay/figure.html
-  image="/essays/template/images/placeholder.svg"
-  alt="Placeholder for a photograph of an important object or place"
-  caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
-%}
-
- This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
-
+ “No Hay Mejor Herencia Que La Educación”
+Growing up, I always understood that education was important to my father, but interviewing
+him helped me recognize the love behind that belief. My father grew up in a humble farming
+family in Chihuahua, Mexico, where economic limitations prevented him from pursuing his
+dream of becoming a lawyer. Around fourteen, he migrated to the United States seeking better
+opportunities. His experience reflects the push pull theory discussed in class, where limited
+economic mobility encourages migration toward places offering greater opportunities.
+My father's story also reflects a broader history of inequality surrounding Mexican labor.
+Kang explains how American agriculture historically depended on Mexican workers while racial
+discrimination restricted their opportunities for advancement (Kang, 4–5). This history provides
+context for my father's understanding of education as a pathway beyond physically demanding
+agricultural labor. Reflecting on his childhood, he explained, "Desgraciadamente yo no tuve la
+oportunidad de estudiar" (Olivas Castillo, 14). He never fulfilled his educational dreams, he
+became determined to provide his daughters with opportunities he lacked.
+What struck me most was how his definition of success evolved through fatherhood. In
+Letter in Exile, Carlos Bulosan questions the promise of American prosperity through his
+experiences of inequality and disappointment (Bulosan, 13). My father's experience offers
+Olivas 2
+another perspective on this promise. Initially attracted by material stability, he eventually
+measured his American Dream through his daughters education rather than possessions.
+As a first generation college student, I recognize that my educational opportunities reflect
+generations of labor, sacrifice, and love. When my father said, "No hay mejor herencia que la
+educación. No les puedo dejar mejor herencia que esa, porque esa herencia es de ellas propias y
+nadie se la puede quitar" (Olivas Castillo, 18), I understood education as more than individual
+achievement. It represents intergenerational mobility, independence, and his desire to protect our
+futures. His greatest accomplishment was not simply building a better life for himself, but
+creating opportunities for his daughters to pursue lives he once imagined for himself.
 ## Subheader 4: 4-8 words Identity and Place in Society
 
 {% include essay/figure.html
