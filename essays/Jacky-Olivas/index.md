@@ -106,7 +106,7 @@ creating opportunities for his daughters to pursue lives he once imagined for hi
 ## Subheader 4: 4-8 words Identity and Place in Society
 
 {% include essay/figure.html
-  image="/essays/template/images/placeholder.svg"
+  image="image/olivas.jpeg"
   alt="Placeholder for an archival photograph"
   caption="Sample placeholder. Describe the archival image, how it relates to other migration stories, and cite its source."
 %}
